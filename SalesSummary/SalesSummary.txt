@@ -1,0 +1,6 @@
+Sales Summary
+-----------------------------
+ Total Sales: 2012.2000000000003
+
+ Details: 
+System.Collections.Generic.List`1[System.String]: 2012.2000000000003
